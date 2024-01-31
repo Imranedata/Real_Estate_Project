@@ -55,7 +55,6 @@ json5                     0.9.14
 jsonpointer               2.4
 jsonschema                4.20.0
 jsonschema-specifications 2023.11.2
-jupyter                   1.0.0
 jupyter_client            8.6.0
 jupyter-console           6.6.3
 jupyter_core              5.5.0
